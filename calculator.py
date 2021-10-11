@@ -10,12 +10,12 @@ def calculator(number1, number2, operator):
         elif(operator == "*"):
             return number1 * number2
         elif(operator == "/"):
-            if(number2 != 0:)
+            if(number2 != 0):
                 return number1 / number2
             else:
                 return False
         elif(operator == "//"):
-            if(number2 != 0)
+            if(number2 != 0):
                 return number1 // number2
             else: 
                 return False
