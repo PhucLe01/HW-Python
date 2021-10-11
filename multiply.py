@@ -6,9 +6,3 @@ def multiply_list(list):
         else:
             return False
     return answer
-
-def main():
-    list1 = [1, 2, 3, 7]
-    print(multiply_list(list1))
-
-main()
